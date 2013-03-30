@@ -2,5 +2,5 @@
 define(['jquery'], function ($) {
     'use strict';
 
-    return '\'Allo \'Allo!';
+    //return app;
 });
